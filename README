@@ -2,23 +2,23 @@
 
 Marker is an EE 2.x plugin that converts between Markdown and HTML. Both directions are supported, Markdown -> HTML as well as HTML -> Markdown. Markdown is the creation of John Gruber, information is here:
 
- [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/)
+  - http://daringfireball.net/projects/markdown/)
  
 HTML is the creation of Tim Berners-Lee, documentation can be found with the W3C
 
- - (http://www.w3.org/)
+ - http://www.w3.org/
 
 This plugin is an encapsulation of two legendary PHP Markdown libraries. For Markdown -> HTML work I am using PHP Markdown: 
 
- - (http://michelf.com/projects/php-markdown/)
+ - http://michelf.com/projects/php-markdown/
 
 For the HTLM -> Markdown work I am using Markdownify:
 
- - (http://milianw.de/projects/markdownify/)
+ - http://milianw.de/projects/markdownify/
 
 In both cases, Extra capabilities are in play:
 
- - (http://michelf.com/projects/php-markdown/extra/)
+ - http://michelf.com/projects/php-markdown/extra/
 
 ###USAGE
 ___
