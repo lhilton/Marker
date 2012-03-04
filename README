@@ -40,4 +40,4 @@ You can also convert from HTML to Markdown:
 	<p>You can also supply a <strong>channel field tag</strong> for content.</p>
 	{/exp:marker:tomarkdown}
 
-This can be a bit more dangerous as complex or poor HTML can loose data in the translation. For example tags with inline style can find themselves destyled once converted to Markdown. To be fair, that is really the philosophy of Markdown. **Just be aware that this IS considered a lossy conversion**.
+This can be a bit more dangerous as complex or poor HTML can loose data in the translation. For example tags with inline style can find themselves destyled once converted to Markdown. To be fair, that is really the philosophy of Markdown. __Just be aware that this IS considered a lossy conversion__.
